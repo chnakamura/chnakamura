@@ -12,7 +12,6 @@ You should try forking the repo and customizing  the cost function! I think ther
 **Vaccine Tracker**
 ---
 I noticed my parents were having a lot of trouble finding vaccine appointments, so I created a bot that would text them whenever one was available! I built it using AWS Eventbridge to trigger a Lambda function every minute which makes a request to a local vaccinations site's REST API. Then, if there are appointments available, it triggers an SNS notification that sends them a text message!
-#### I have previously worked on
 
 [Covid Tracker Tracker](http://covid-tracker-tracker.chrisnakamura.com) 
 ---
