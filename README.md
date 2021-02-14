@@ -12,8 +12,10 @@
 - Uses AWS EventBridge and Lambda to query the Github API once per day, caching the results in a DynamoDB database in order to display results quickly and avoid rate-limiting. 
 
 [PicQuery](https://github.com/chnakamura/picquery) A webapp that stores and automatically tags users photos for their contents using machine learning with Amazon’s Rekognition engine.
+- Deployed to AWS using S3, Lambda, RDS and EC2.
 
-[StegChris](https://github.com/chnakamura/stegchris) While I had heard about sternography before this project, I never actually learned how it worked. I decided to challenge myself by making a sternography engine without doing any research about the best practices for implementing sternography. 
+[StegChris](https://github.com/chnakamura/stegchris) A stenography engine that I implemented without doing any resarch on stenography. 
+- This was a very fun challenge!
 
 #### 📫 How to reach me: nakamura.chris0@gmail.com
 
