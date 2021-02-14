@@ -7,7 +7,7 @@
 Nurse scheduling is a significant pain-point for hospitals. This project implements a generic two-phase stochastic variable neighborhood algorithm developed by researchers at the University of Western Greece to find a near-optimal solution in quadratic time.
 - I welcome you to fork the repo and try modifying the cost function! I think we could find some interesting results!
 
-Vaccine Tracker
+**Vaccine Tracker**
 I noticed my parents were having a lot of trouble finding vaccine appointments, so I created a bot that would text them whenever one was available! I built it using AWS Eventbridge to trigger a Lambda function every minute which makes a request to a local vaccinations site's REST API. Then, if there are appointments available, it triggers an SNS notification that sends them a text message!
 #### I have previously worked on
 
