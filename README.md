@@ -1,6 +1,6 @@
 
 ### Hi there 👋 I'm Chris! Here are some of my projects!
-#### 📫 How to reach me: nakamura.chris0@gmail.com
+#### 📫 How to reach me: https://www.linkedin.com/in/chris-nakamura/
 #### 😄 Pronouns: He/Him
  
 [NurseScheduler](https://github.com/chnakamura/NurseScheduler) 
